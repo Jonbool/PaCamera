@@ -1,3 +1,3 @@
 # Pacamera
-recording video with effect
+recording video with effect\n
 first project for GitHub
