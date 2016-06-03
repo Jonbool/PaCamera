@@ -20,5 +20,5 @@
 
 </p>
 <h2>关于作者</h2>
-<p>Edit By <a href="http://mahua.jser.me">Jonbool</a></p>
+<p>Edit By <a href="https://github.com/Jonbool">Jonbool</a></p>
 </body></html>
