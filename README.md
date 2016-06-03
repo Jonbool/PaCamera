@@ -1,2 +1,3 @@
-# laughing-memory
-first code of android
+# Pacamera
+recording video with effect
+first project for GitHub
